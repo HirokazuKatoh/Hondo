@@ -1,0 +1,1319 @@
+Database: Pvamp2_unmapped_P-2.fa
+
+
+################################################################################
+Query= NC_034266.1 Columbid alphaherpesvirus 1 strain HLJ, complete genome
+
+Length=204237
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+76034  357 1132                                                       62.1    1e-06
+21640  635 2490                                                       62.1    1e-06
+
+
+>76034 357 1132
+Length=357
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  152220  AACCCTAACCCTAATCGGGCACCGCGCCAACCCTAACCCTAACCCTAACCCTAATC  152275
+               |||||||||||||| | |  | | | ||||||||||||||||||||||||||||||
+Sbjct  81      AACCCTAACCCTAA-CCGCTAAC-C-CCAACCCTAACCCTAACCCTAACCCTAATC  29
+
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Plus
+
+Query  202509  GATTAGGGTTAGGGTTAGGGTTAGGGTTGGCGCGGTGCCCGATTAGGGTTAGGGTT  202564
+               |||||||||||||||||||||||||||||| | | |  | | ||||||||||||||
+Sbjct  29      GATTAGGGTTAGGGTTAGGGTTAGGGTTGG-G-GTTAGCGG-TTAGGGTTAGGGTT  81
+
+
+>21640 635 2490
+Length=635
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  202509  GATTAGGGTTAGGGTTAGGGTTAGGGTTGGCGCGGTGCCCGATTAGGGTTAGGGTT  202564
+               |||||||||||||||||||||||||||||| | | |  | | ||||||||||||||
+Sbjct  68      GATTAGGGTTAGGGTTAGGGTTAGGGTTGG-G-GTTAGCGG-TTAGGGTTAGGGTT  16
+
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Plus
+
+Query  152220  AACCCTAACCCTAATCGGGCACCGCGCCAACCCTAACCCTAACCCTAACCCTAATC  152275
+               |||||||||||||| | |  | | | ||||||||||||||||||||||||||||||
+Sbjct  16      AACCCTAACCCTAA-CCGCTAAC-C-CCAACCCTAACCCTAACCCTAACCCTAATC  68
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4741707428496
+
+
+
+################################################################################
+Query= NC_024450.1 Falconid herpesvirus 1 strain S-18, complete genome
+
+Length=204054
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+76034  357 1132                                                       62.1    1e-06
+21640  635 2490                                                       62.1    1e-06
+
+
+>76034 357 1132
+Length=357
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  152047  AACCCTAACCCTAATCGGGCACCGCGCCAACCCTAACCCTAACCCTAACCCTAATC  152102
+               |||||||||||||| | |  | | | ||||||||||||||||||||||||||||||
+Sbjct  81      AACCCTAACCCTAA-CCGCTAAC-C-CCAACCCTAACCCTAACCCTAACCCTAATC  29
+
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Plus
+
+Query  202326  GATTAGGGTTAGGGTTAGGGTTAGGGTTGGCGCGGTGCCCGATTAGGGTTAGGGTT  202381
+               |||||||||||||||||||||||||||||| | | |  | | ||||||||||||||
+Sbjct  29      GATTAGGGTTAGGGTTAGGGTTAGGGTTGG-G-GTTAGCGG-TTAGGGTTAGGGTT  81
+
+
+>21640 635 2490
+Length=635
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Minus
+
+Query  202326  GATTAGGGTTAGGGTTAGGGTTAGGGTTGGCGCGGTGCCCGATTAGGGTTAGGGTT  202381
+               |||||||||||||||||||||||||||||| | | |  | | ||||||||||||||
+Sbjct  68      GATTAGGGTTAGGGTTAGGGTTAGGGTTGG-G-GTTAGCGG-TTAGGGTTAGGGTT  16
+
+
+ Score = 62.1 bits (33),  Expect = 1e-06
+ Identities = 49/56 (88%), Gaps = 3/56 (5%)
+ Strand=Plus/Plus
+
+Query  152047  AACCCTAACCCTAATCGGGCACCGCGCCAACCCTAACCCTAACCCTAACCCTAATC  152102
+               |||||||||||||| | |  | | | ||||||||||||||||||||||||||||||
+Sbjct  16      AACCCTAACCCTAA-CCGCTAAC-C-CCAACCCTAACCCTAACCCTAACCCTAATC  68
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 4737458128968
+
+
+
+################################################################################
+Query= NC_026273.1 Sewage-associated circular DNA virus-28 isolate
+SaCV-28_NZ-BS4064a-2012, complete genome
+
+Length=2496
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+4376  285 512                                                         52.8    7e-06
+
+
+>4376 285 512
+Length=285
+
+ Score = 52.8 bits (28),  Expect = 7e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  2309  GGTTTAGGGTTAGGGTTAGGTTTAGGGG  2336
+             ||||||||||||||||||||||||||||
+Sbjct  258   GGTTTAGGGTTAGGGTTAGGTTTAGGGG  231
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 58453701020
+
+
+
+################################################################################
+Query= NC_038500.1 UNVERIFIED: Rhinolophus associated gemykibivirus 2
+isolate BtRf-CV-8/NM2013, complete genome
+
+Length=1998
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+42737  319 475                                                        71.3    2e-11
+36521  282 537                                                        69.4    6e-11
+33069  352 643                                                        69.4    6e-11
+51520  318 497                                                        67.6    2e-10
+49827  292 416                                                        67.6    2e-10
+25829  502 1922                                                       67.6    2e-10
+25104  359 1141                                                       67.6    2e-10
+23220  489 994                                                        67.6    2e-10
+10415  319 779                                                        67.6    2e-10
+84468  263 795                                                        65.8    8e-10
+63058  292 651                                                        65.8    8e-10
+59174  430 1908                                                       65.8    8e-10
+57418  582 2333                                                       65.8    8e-10
+1606  250 410                                                         65.8    8e-10
+75680  334 434                                                        63.9    3e-09
+71464  282 441                                                        63.9    3e-09
+65851  239 589                                                        63.9    3e-09
+43264  394 935                                                        63.9    3e-09
+36703  659 2723                                                       63.9    3e-09
+35815  202 477                                                        63.9    3e-09
+34335  269 416                                                        63.9    3e-09
+31658  239 694                                                        63.9    3e-09
+78503  253 593                                                        62.1    1e-08
+52779  130 39                                                         62.1    1e-08
+45035  422 1183                                                       62.1    1e-08
+42120  445 988                                                        62.1    1e-08
+36702  293 576                                                        62.1    1e-08
+26896  249 393                                                        62.1    1e-08
+16467  136 152                                                        62.1    1e-08
+13744  258 282                                                        62.1    1e-08
+8203  276 483                                                         62.1    1e-08
+6059  465 1606                                                        62.1    1e-08
+2090  428 1307                                                        62.1    1e-08
+1465  246 423                                                         62.1    1e-08
+69635  339 779                                                        60.2    4e-08
+67258  254 355                                                        60.2    4e-08
+63866  322 994                                                        60.2    4e-08
+60924  420 909                                                        60.2    4e-08
+49170  344 1011                                                       60.2    4e-08
+21481  341 806                                                        60.2    4e-08
+20905  421 999                                                        60.2    4e-08
+13338  391 1456                                                       60.2    4e-08
+12954  253 698                                                        60.2    4e-08
+66825  364 997                                                        58.4    1e-07
+52962  252 505                                                        58.4    1e-07
+23568  345 612                                                        58.4    1e-07
+16862  327 518                                                        58.4    1e-07
+4992  240 335                                                         58.4    1e-07
+74983  322 661                                                        56.5    5e-07
+66835  336 1241                                                       56.5    5e-07
+65502  268 314                                                        56.5    5e-07
+59611  252 351                                                        56.5    5e-07
+48856  305 680                                                        56.5    5e-07
+45463  366 845                                                        56.5    5e-07
+25235  251 528                                                        56.5    5e-07
+21140  258 303                                                        56.5    5e-07
+17010  855 2572                                                       56.5    5e-07
+53258  408 1070                                                       54.7    2e-06
+47766  332 882                                                        54.7    2e-06
+35690  496 1191                                                       54.7    2e-06
+24595  267 734                                                        54.7    2e-06
+22754  421 1177                                                       54.7    2e-06
+18824  408 1591                                                       54.7    2e-06
+16065  250 274                                                        54.7    2e-06
+9154  304 1046                                                        54.7    2e-06
+3819  306 958                                                         54.7    2e-06
+77975  291 379                                                        52.8    6e-06
+70542  264 435                                                        52.8    6e-06
+68970  324 531                                                        52.8    6e-06
+52086  323 539                                                        52.8    6e-06
+37882  318 549                                                        52.8    6e-06
+29838  363 777                                                        52.8    6e-06
+11887  254 715                                                        52.8    6e-06
+8678  294 370                                                         52.8    6e-06
+
+
+>42737 319 475
+Length=319
+
+ Score = 71.3 bits (38),  Expect = 2e-11
+ Identities = 42/44 (95%), Gaps = 0/44 (0%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTA  632
+            ||||||||||||||||||||||||||||||||||||| || |||
+Sbjct  220  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTAATCCTA  263
+
+
+>36521 282 537
+Length=282
+
+ Score = 69.4 bits (37),  Expect = 6e-11
+ Identities = 37/37 (100%), Gaps = 0/37 (0%)
+ Strand=Plus/Minus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            |||||||||||||||||||||||||||||||||||||
+Sbjct  258  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  222
+
+
+>33069 352 643
+Length=352
+
+ Score = 69.4 bits (37),  Expect = 6e-11
+ Identities = 43/46 (93%), Gaps = 0/46 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTAAAC  635
+            |||||||||||||||||||||||||||||||||||| |  ||||||
+Sbjct  289  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTAACCCTAAAC  244
+
+
+>51520 318 497
+Length=318
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 43/46 (93%), Gaps = 1/46 (2%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCC-TTATTCTAAA  634
+            ||| ||||||||||||||||||||||||||||||| ||| ||||||
+Sbjct  134  AACACTAACTCTAACCCTAACCCTAACCCTAACCCCTTAATCTAAA  89
+
+
+>49827 292 416
+Length=292
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  77   AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  112
+
+
+>25829 502 1922
+Length=502
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  345  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  310
+
+
+>25104 359 1141
+Length=359
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  69   AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  104
+
+
+>23220 489 994
+Length=489
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  5    AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  40
+
+
+>10415 319 779
+Length=319
+
+ Score = 67.6 bits (36),  Expect = 2e-10
+ Identities = 36/36 (100%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||||||
+Sbjct  11   AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  46
+
+
+>84468 263 795
+Length=263
+
+ Score = 65.8 bits (35),  Expect = 8e-10
+ Identities = 37/38 (97%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||||||||||||||||||||||||||||||||||| ||
+Sbjct  250  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCCTA  213
+
+
+>63058 292 651
+Length=292
+
+ Score = 65.8 bits (35),  Expect = 8e-10
+ Identities = 35/35 (100%), Gaps = 0/35 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            |||||||||||||||||||||||||||||||||||
+Sbjct  20   AACCCTAACTCTAACCCTAACCCTAACCCTAACCC  54
+
+
+>59174 430 1908
+Length=430
+
+ Score = 65.8 bits (35),  Expect = 8e-10
+ Identities = 35/35 (100%), Gaps = 0/35 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            |||||||||||||||||||||||||||||||||||
+Sbjct  329  AACCCTAACTCTAACCCTAACCCTAACCCTAACCC  295
+
+
+>57418 582 2333
+Length=582
+
+ Score = 65.8 bits (35),  Expect = 8e-10
+ Identities = 37/38 (97%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||||||||| ||||||||||||||||||||||||||||
+Sbjct  369  AACCCTAACACTAACCCTAACCCTAACCCTAACCCTTA  406
+
+
+>1606 250 410
+Length=250
+
+ Score = 65.8 bits (35),  Expect = 8e-10
+ Identities = 40/42 (95%), Gaps = 1/42 (2%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            || ||| |||||||||||||||||||||||||||||||||||
+Sbjct  167  CCTAAA-CCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  207
+
+
+>75680 334 434
+Length=334
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 38/40 (95%), Gaps = 0/40 (0%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || ||||||||||||||||||||||||||||||||| |||
+Sbjct  70   CCTAAACCCTAACTCTAACCCTAACCCTAACCCTAAGCCT  109
+
+
+>71464 282 441
+Length=282
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 36/37 (97%), Gaps = 0/37 (0%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||||| |||
+Sbjct  2    AAACCCTAACTCTAACCCTAACCCTAACCCTAATCCT  38
+
+
+>65851 239 589
+Length=239
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 40/43 (93%), Gaps = 0/43 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTA  632
+            || ||||||||||||||||||||||||||||||||| || |||
+Sbjct  10   AAGCCTAACTCTAACCCTAACCCTAACCCTAACCCTAATCCTA  52
+
+
+>43264 394 935
+Length=394
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 34/34 (100%), Gaps = 0/34 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||||||||||||||||||||||||||||||||||
+Sbjct  329  AACCCTAACTCTAACCCTAACCCTAACCCTAACC  296
+
+
+>36703 659 2723
+Length=659
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 40/43 (93%), Gaps = 0/43 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTA  632
+            || ||||||||||||||||||||||||||||||||| || |||
+Sbjct  82   AAGCCTAACTCTAACCCTAACCCTAACCCTAACCCTAATCCTA  124
+
+
+>35815 202 477
+Length=202
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 46/51 (90%), Gaps = 3/51 (6%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTC-TAAAC  635
+            || ||| ||||||||||||||||||||||||||||| ||| |||| |||||
+Sbjct  130  CCTAAA-CCTAACTCTAACCCTAACCCTAACCCTAATCCT-ATTCCTAAAC  178
+
+
+>34335 269 416
+Length=269
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 34/34 (100%), Gaps = 0/34 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||||||||||||||||||||||||||||||||||
+Sbjct  233  AACCCTAACTCTAACCCTAACCCTAACCCTAACC  266
+
+
+>31658 239 694
+Length=239
+
+ Score = 63.9 bits (34),  Expect = 3e-09
+ Identities = 40/43 (93%), Gaps = 0/43 (0%)
+ Strand=Plus/Minus
+
+Query  593  CCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTAAAC  635
+            ||||||||||||||||||||||||||||||||| || ||| ||
+Sbjct  227  CCTAACTCTAACCCTAACCCTAACCCTAACCCTAATCCTATAC  185
+
+
+>78503 253 593
+Length=253
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 36/37 (97%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            |||||||||||||||||||||||||||||||| ||||
+Sbjct  123  AAACCCTAACTCTAACCCTAACCCTAACCCTA-CCCT  158
+
+
+>52779 130 39
+Length=130
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 36/37 (97%), Gaps = 1/37 (3%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCC-TAACCCT  625
+            ||||||||||||||||||||||||||||| |||||||
+Sbjct  44   AACCCTAACTCTAACCCTAACCCTAACCCCTAACCCT  8
+
+
+>45035 422 1183
+Length=422
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 35/36 (97%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||| ||||||||||||||||||||||||||||
+Sbjct  109  AACCCTATCTCTAACCCTAACCCTAACCCTAACCCT  74
+
+
+>42120 445 988
+Length=445
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 33/33 (100%), Gaps = 0/33 (0%)
+ Strand=Plus/Minus
+
+Query  593  CCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            |||||||||||||||||||||||||||||||||
+Sbjct  305  CCTAACTCTAACCCTAACCCTAACCCTAACCCT  273
+
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 35/36 (97%), Gaps = 1/36 (3%)
+ Strand=Plus/Minus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            ||| ||||||||||||||||||||||||||||||||
+Sbjct  232  AAA-CCTAACTCTAACCCTAACCCTAACCCTAACCC  198
+
+
+>36702 293 576
+Length=293
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 35/36 (97%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || |||||||||||||||||||||||||||||||||
+Sbjct  82   AAGCCTAACTCTAACCCTAACCCTAACCCTAACCCT  117
+
+
+>26896 249 393
+Length=249
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 33/33 (100%), Gaps = 0/33 (0%)
+ Strand=Plus/Plus
+
+Query  592  CCCTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            |||||||||||||||||||||||||||||||||
+Sbjct  1    CCCTAACTCTAACCCTAACCCTAACCCTAACCC  33
+
+
+>16467 136 152
+Length=136
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 35/36 (97%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || |||||||||||||||||||||||||||||||||
+Sbjct  99   AAGCCTAACTCTAACCCTAACCCTAACCCTAACCCT  134
+
+
+>13744 258 282
+Length=258
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 38/40 (95%), Gaps = 1/40 (3%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || ||| |||||||||||||||||||||||||||||||||
+Sbjct  200  CCTAAA-CCTAACTCTAACCCTAACCCTAACCCTAACCCT  238
+
+
+>8203 276 483
+Length=276
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 35/36 (97%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||| ||||
+Sbjct  96   AACCCTAACTCTAACCCTAACCCTAACCCTATCCCT  131
+
+
+>6059 465 1606
+Length=465
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 36/37 (97%), Gaps = 1/37 (3%)
+ Strand=Plus/Minus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||| |||||||||||||||||||||||||||||||||
+Sbjct  56   AAA-CCTAACTCTAACCCTAACCCTAACCCTAACCCT  21
+
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 31/32 (97%), Gaps = 1/32 (3%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAA  621
+            |||||||||||||||||||||||||||| |||
+Sbjct  217  AACCCTAACTCTAACCCTAACCCTAACC-TAA  187
+
+
+>2090 428 1307
+Length=428
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 38/40 (95%), Gaps = 1/40 (3%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || ||| |||||||||||||||||||||||||||||||||
+Sbjct  261  CCTAAA-CCTAACTCTAACCCTAACCCTAACCCTAACCCT  299
+
+
+>1465 246 423
+Length=246
+
+ Score = 62.1 bits (33),  Expect = 1e-08
+ Identities = 35/36 (97%), Gaps = 0/36 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||| ||||||||||||||||||||||||||||||||
+Sbjct  244  AACTCTAACTCTAACCCTAACCCTAACCCTAACCCT  209
+
+
+>69635 339 779
+Length=339
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 34/35 (97%), Gaps = 0/35 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            ||| |||||||||||||||||||||||||||||||
+Sbjct  21   AACACTAACTCTAACCCTAACCCTAACCCTAACCC  55
+
+
+>67258 254 355
+Length=254
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 32/32 (100%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  592  CCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||||||||||||||||||||||||||||||||
+Sbjct  218  CCCTAACTCTAACCCTAACCCTAACCCTAACC  249
+
+
+>63866 322 994
+Length=322
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 32/32 (100%), Gaps = 0/32 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAA  621
+            ||||||||||||||||||||||||||||||||
+Sbjct  242  AACCCTAACTCTAACCCTAACCCTAACCCTAA  211
+
+
+>60924 420 909
+Length=420
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 32/32 (100%), Gaps = 0/32 (0%)
+ Strand=Plus/Minus
+
+Query  592  CCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||||||||||||||||||||||||||||||||
+Sbjct  400  CCCTAACTCTAACCCTAACCCTAACCCTAACC  369
+
+
+>49170 344 1011
+Length=344
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 39/42 (93%), Gaps = 1/42 (2%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            || ||| |||||| ||||||||||||||||||||||||||||
+Sbjct  277  CCGAAA-CCTAACCCTAACCCTAACCCTAACCCTAACCCTTA  317
+
+
+>21481 341 806
+Length=341
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 36/38 (95%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            |||||| || ||||||||||||||||||||||||||||
+Sbjct  319  AACCCTGACCCTAACCCTAACCCTAACCCTAACCCTTA  282
+
+
+>20905 421 999
+Length=421
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 36/38 (95%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
+
+Query  595  TAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTA  632
+            ||||||||||||||||||||||||||||||| || |||
+Sbjct  361  TAACTCTAACCCTAACCCTAACCCTAACCCTAATCCTA  398
+
+
+>13338 391 1456
+Length=391
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 37/39 (95%), Gaps = 1/39 (3%)
+ Strand=Plus/Minus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||| |||||| ||||||||||||||||||||||||||||
+Sbjct  377  AAA-CCTAACCCTAACCCTAACCCTAACCCTAACCCTTA  340
+
+
+>12954 253 698
+Length=253
+
+ Score = 60.2 bits (32),  Expect = 4e-08
+ Identities = 37/39 (95%), Gaps = 1/39 (3%)
+ Strand=Plus/Minus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||| |||||| ||||||||||||||||||||||||||||
+Sbjct  216  AAA-CCTAACCCTAACCCTAACCCTAACCCTAACCCTTA  179
+
+
+>66825 364 997
+Length=364
+
+ Score = 58.4 bits (31),  Expect = 1e-07
+ Identities = 33/34 (97%), Gaps = 0/34 (0%)
+ Strand=Plus/Minus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||||| ||||||||||||||||||||||||||||
+Sbjct  227  CTAACCCTAACCCTAACCCTAACCCTAACCCTTA  194
+
+
+>52962 252 505
+Length=252
+
+ Score = 58.4 bits (31),  Expect = 1e-07
+ Identities = 34/35 (97%), Gaps = 1/35 (3%)
+ Strand=Plus/Plus
+
+Query  591  ACC-CTAACTCTAACCCTAACCCTAACCCTAACCC  624
+            ||| |||||||||||||||||||||||||||||||
+Sbjct  131  ACCTCTAACTCTAACCCTAACCCTAACCCTAACCC  165
+
+
+>23568 345 612
+Length=345
+
+ Score = 58.4 bits (31),  Expect = 1e-07
+ Identities = 33/34 (97%), Gaps = 0/34 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||| ||||||||||||||||||||||||||||||
+Sbjct  93   AACACTAACTCTAACCCTAACCCTAACCCTAACC  60
+
+
+>16862 327 518
+Length=327
+
+ Score = 58.4 bits (31),  Expect = 1e-07
+ Identities = 34/35 (97%), Gaps = 1/35 (3%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||| |||||||||||||||||||||||||||||||
+Sbjct  53   AAA-CCTAACTCTAACCCTAACCCTAACCCTAACC  86
+
+
+>4992 240 335
+Length=240
+
+ Score = 58.4 bits (31),  Expect = 1e-07
+ Identities = 43/49 (88%), Gaps = 0/49 (0%)
+ Strand=Plus/Plus
+
+Query  587  CAAAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTAAAC  635
+            || ||| |||||||||||||||||||||||||||| ||| |  ||||||
+Sbjct  171  CATAACGCTAACTCTAACCCTAACCCTAACCCTAAACCTAACACTAAAC  219
+
+
+>74983 322 661
+Length=322
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 30/30 (100%), Gaps = 0/30 (0%)
+ Strand=Plus/Plus
+
+Query  596  AACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||||
+Sbjct  69   AACTCTAACCCTAACCCTAACCCTAACCCT  98
+
+
+>66835 336 1241
+Length=336
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 34/36 (94%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            || ||||||||||||||||||||||||||||| |||
+Sbjct  184  AATCCTAACTCTAACCCTAACCCTAACCCTAAACCT  219
+
+
+>65502 268 314
+Length=268
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 33/34 (97%), Gaps = 1/34 (3%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAAC  622
+            ||||||||||||||||||||||||||||| ||||
+Sbjct  24   AAACCCTAACTCTAACCCTAACCCTAACC-TAAC  56
+
+
+>59611 252 351
+Length=252
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 34/36 (94%), Gaps = 0/36 (0%)
+ Strand=Plus/Plus
+
+Query  597  ACTCTAACCCTAACCCTAACCCTAACCCTTATTCTA  632
+            ||||||||||||||||||||||||||||| || |||
+Sbjct  1    ACTCTAACCCTAACCCTAACCCTAACCCTAATCCTA  36
+
+
+>48856 305 680
+Length=305
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 33/34 (97%), Gaps = 1/34 (3%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            |||||||||||||||||||||||||||||| |||
+Sbjct  28   CTAACTCTAACCCTAACCCTAACCCTAACC-TTA  60
+
+
+>45463 366 845
+Length=366
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 32/33 (97%), Gaps = 0/33 (0%)
+ Strand=Plus/Plus
+
+Query  591  ACCCTAACTCTAACCCTAACCCTAACCCTAACC  623
+            ||| |||||||||||||||||||||||||||||
+Sbjct  28   ACCGTAACTCTAACCCTAACCCTAACCCTAACC  60
+
+
+>25235 251 528
+Length=251
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 35/37 (95%), Gaps = 1/37 (3%)
+ Strand=Plus/Plus
+
+Query  591  ACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            || |||||||||||||||||||||||||||||| |||
+Sbjct  127  ACTCTAACTCTAACCCTAACCCTAACCCTAACC-TTA  162
+
+
+>21140 258 303
+Length=258
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 38/42 (90%), Gaps = 0/42 (0%)
+ Strand=Plus/Minus
+
+Query  593  CCTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTAAA  634
+            |||||  |||||||||||||||||||||||||||| | ||||
+Sbjct  217  CCTAATCCTAACCCTAACCCTAACCCTAACCCTTACTATAAA  176
+
+
+>17010 855 2572
+Length=855
+
+ Score = 56.5 bits (30),  Expect = 5e-07
+ Identities = 37/40 (93%), Gaps = 1/40 (3%)
+ Strand=Plus/Minus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAACCCTTATTCTAA  633
+            ||||| ||||  ||||||||||||||||||||||||||||
+Sbjct  715  CTAAC-CTAATTCTAACCCTAACCCTAACCCTTATTCTAA  677
+
+
+>53258 408 1070
+Length=408
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 35/38 (92%), Gaps = 0/38 (0%)
+ Strand=Plus/Plus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||| ||||  ||||||||||||||||||||||||||||
+Sbjct  303  AACACTAAGCCTAACCCTAACCCTAACCCTAACCCTTA  340
+
+
+>47766 332 882
+Length=332
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Minus
+
+Query  597  ACTCTAACCCTAACCCTAACCCTAACCCT  625
+            |||||||||||||||||||||||||||||
+Sbjct  332  ACTCTAACCCTAACCCTAACCCTAACCCT  304
+
+
+>35690 496 1191
+Length=496
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAAC  622
+            |||||||||||||||||||||||||||||
+Sbjct  234  CTAACTCTAACCCTAACCCTAACCCTAAC  262
+
+
+>24595 267 734
+Length=267
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 34/36 (94%), Gaps = 1/36 (3%)
+ Strand=Plus/Plus
+
+Query  586  CCAAAACCCTAACTCTAACCCTAACCCTAACCCTAA  621
+            || ||| |||||||||||||||||||||||||||||
+Sbjct  233  CCTAAA-CCTAACTCTAACCCTAACCCTAACCCTAA  267
+
+
+>22754 421 1177
+Length=421
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 31/32 (97%), Gaps = 0/32 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||| ||||||||||||||||||||||||||||
+Sbjct  121  CTATCTCTAACCCTAACCCTAACCCTAACCCT  152
+
+
+>18824 408 1591
+Length=408
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 32/33 (97%), Gaps = 1/33 (3%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCC-TAA  621
+            ||||||||||||||||||||||||||||| |||
+Sbjct  33   AACCCTAACTCTAACCCTAACCCTAACCCCTAA  1
+
+
+>16065 250 274
+Length=250
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 36/39 (92%), Gaps = 1/39 (3%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            |||||||||||||||||||||||||||| ||| || |||
+Sbjct  124  AAACCCTAACTCTAACCCTAACCCTAACTCTAGCC-TTA  161
+
+
+>9154 304 1046
+Length=304
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 35/38 (92%), Gaps = 0/38 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||| ||||  ||||||||||||||||||||||||||||
+Sbjct  100  AACACTAAACCTAACCCTAACCCTAACCCTAACCCTTA  63
+
+
+>3819 306 958
+Length=306
+
+ Score = 54.7 bits (29),  Expect = 2e-06
+ Identities = 29/29 (100%), Gaps = 0/29 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAAC  622
+            |||||||||||||||||||||||||||||
+Sbjct  24   CTAACTCTAACCCTAACCCTAACCCTAAC  52
+
+
+>77975 291 379
+Length=291
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAA  621
+            ||||||||||||||||||||||||||||
+Sbjct  21   CTAACTCTAACCCTAACCCTAACCCTAA  48
+
+
+>70542 264 435
+Length=264
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  590  AACCCTAACTCTAACCCTAACCCTAACC  617
+            ||||||||||||||||||||||||||||
+Sbjct  162  AACCCTAACTCTAACCCTAACCCTAACC  135
+
+
+>68970 324 531
+Length=324
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  598  CTCTAACCCTAACCCTAACCCTAACCCT  625
+            ||||||||||||||||||||||||||||
+Sbjct  1    CTCTAACCCTAACCCTAACCCTAACCCT  28
+
+
+>52086 323 539
+Length=323
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 32/34 (94%), Gaps = 0/34 (0%)
+ Strand=Plus/Minus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAACCCTTA  627
+            ||||||||||||||||||||||||||||  ||||
+Sbjct  253  CTAACTCTAACCCTAACCCTAACCCTAAATCTTA  220
+
+
+>37882 318 549
+Length=318
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAA  621
+            ||||||||||||||||||||||||||||
+Sbjct  6    CTAACTCTAACCCTAACCCTAACCCTAA  33
+
+
+>29838 363 777
+Length=363
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  589  AAACCCTAACTCTAACCCTAACCCTAAC  616
+            ||||||||||||||||||||||||||||
+Sbjct  214  AAACCCTAACTCTAACCCTAACCCTAAC  241
+
+
+>11887 254 715
+Length=254
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Plus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAA  621
+            ||||||||||||||||||||||||||||
+Sbjct  166  CTAACTCTAACCCTAACCCTAACCCTAA  193
+
+
+>8678 294 370
+Length=294
+
+ Score = 52.8 bits (28),  Expect = 6e-06
+ Identities = 28/28 (100%), Gaps = 0/28 (0%)
+ Strand=Plus/Minus
+
+Query  594  CTAACTCTAACCCTAACCCTAACCCTAA  621
+            ||||||||||||||||||||||||||||
+Sbjct  234  CTAACTCTAACCCTAACCCTAACCCTAA  207
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 46867660068
+
+
+
+################################################################################
+Query= NC_038922.1 Avian sarcoma virus CT10 genomic sequence
+
+Length=2428
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+53027  284 397                                                        302     6e-81
+
+
+>53027 284 397
+Length=284
+
+ Score = 302 bits (163),  Expect = 6e-81
+ Identities = 234/269 (87%), Gaps = 1/269 (0%)
+ Strand=Plus/Minus
+
+Query  1326  ggggTTGAATCCCACCAGATTTCTAATAGGTGACCAGGTGTTTGATTCTTTGCCATCTTT  1385
+             |||| |||  ||| ||||| ||| |||||| || || | ||||||||| |||||  ||||
+Sbjct  268   GGGG-TGAGCCCCTCCAGACTTCGAATAGGAGATCAAGAGTTTGATTCATTGCCTGCTTT  210
+
+Query  1386  ACTGGAATTCTACAAAATACACTATTTGGACACTACAACCTTGATAGAACCAGTTTCCCG  1445
+             ||||||||||||||||||||||||||||||||||||||| |||||||||||||||||| |
+Sbjct  209   ACTGGAATTCTACAAAATACACTATTTGGACACTACAACGTTGATAGAACCAGTTTCCAG  150
+
+Query  1446  ATCCAGGCAGAACAGTGGCGTTATCCTCAGGCAGGAGGAAGTTGAATATGTGCGAGCTCT  1505
+             ||||||||||   ||||| || || |||||||||||||| |  || ||||||||||| ||
+Sbjct  149   ATCCAGGCAGGGTAGTGGAGTGATTCTCAGGCAGGAGGAGGCAGAGTATGTGCGAGCCCT  90
+
+Query  1506  CTTTGACTTTAAGGGAAACGATGACGGAGATCTTCCATTTAAGAAAGGAGACATACTGAA  1565
+             |||||||||||| || || ||||| | ||||||||| ||||||||||||||||| |||| 
+Sbjct  89    CTTTGACTTTAATGGGAATGATGAAGAAGATCTTCCCTTTAAGAAAGGAGACATCCTGAG  30
+
+Query  1566  AATCCGGGATAAACCTGAAGAGCAATGGT  1594
+             |||||||||||||||||||||||| ||||
+Sbjct  29    AATCCGGGATAAACCTGAAGAGCAGTGGT  1
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 56844449332
+
+
+
+################################################################################
+Query= NC_041925.1 Proteus phage VB_PmiS-Isfahan, complete genome
+
+Length=54836
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+85049  489 1163                                                       193     9e-47
+6653  270 447                                                         165     2e-38
+
+
+>85049 489 1163
+Length=489
+
+ Score = 193 bits (104),  Expect = 9e-47
+ Identities = 151/174 (87%), Gaps = 2/174 (1%)
+ Strand=Plus/Plus
+
+Query  39394  CTCAGATCACGTAGGACT-TTAATCGTTGAACAAACGAACCTTTAATAGCGGCTGCACCA  39452
+              |||||||||||||||||| |||||||||||||||||||||| |||||||||| |||||||
+Sbjct  1      CTCAGATCACGTAGGACTGTTAATCGTTGAACAAACGAACCCTTAATAGCGGTTGCACCA  60
+
+Query  39453  TCGGGATGTCCTGATCCAACATCGAGGTCGTAAACCCTATTGTTGATATGGACTCTAGAA  39512
+              |  || ||||||||||||||||||||||||||||||   |||| ||||||| |||| | |
+Sbjct  61     TTAGGTTGTCCTGATCCAACATCGAGGTCGTAAACCTCCTTGTCGATATGGGCTCTTGGA  120
+
+Query  39513  TAGGATTGCGCTGTTATCCCTAGGGTAACTTGTTCCGTTGGTCAAGT-TATTGG  39565
+                 |||||||||||||||||| ||||| |||| ||| ||| |||| | ||||||
+Sbjct  121    GGAGATTGCGCTGTTATCCCTGGGGTAGCTTGGTCCATTGCTCAATTATATTGG  174
+
+
+>6653 270 447
+Length=270
+
+ Score = 165 bits (89),  Expect = 2e-38
+ Identities = 108/117 (92%), Gaps = 1/117 (1%)
+ Strand=Plus/Plus
+
+Query  13712  CTCCGTTTCCGACCTGGGCCGGTTCACCCCTCCTTAGGCAACCTGGTGGTCCCCCGCTCC  13771
+              |||||||||||||||||||| |||||||||||||||||||||||  |||| |||| ||||
+Sbjct  3      CTCCGTTTCCGACCTGGGCCAGTTCACCCCTCCTTAGGCAACCT-ATGGTTCCCCACTCC  61
+
+Query  13772  CGGGAGGTCACCATATTGATGCCGAACTTAGTGCGGACACCCGATCGGCATAGCGCA  13828
+              ||||||||||||||||||||||||||||| ||||||| ||| |||| ||||||||||
+Sbjct  62     CGGGAGGTCACCATATTGATGCCGAACTTTGTGCGGATACCTGATCAGCATAGCGCA  118
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 1282391505012
+
+
+
+################################################################################
+Query= NC_043329.1 Diolcogaster facetosa bracovirus segment 29, complete
+sequence
+
+Length=12859
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+71565  339 896                                                        150     1e-34
+
+
+>71565 339 896
+Length=339
+
+ Score = 150 bits (81),  Expect = 1e-34
+ Identities = 85/87 (98%), Gaps = 0/87 (0%)
+ Strand=Plus/Minus
+
+Query  11894  AAAATGTGGAACGCTTCACGATTTTGCGTGTCATCCTTGCGCAGGGGCCATGCTAATCTT  11953
+              ||||| ||||||||||||||| ||||||||||||||||||||||||||||||||||||||
+Sbjct  197    AAAATATGGAACGCTTCACGAATTTGCGTGTCATCCTTGCGCAGGGGCCATGCTAATCTT  138
+
+Query  11954  CTCTGTATCGTTCCAATTTTAGTATAT  11980
+              |||||||||||||||||||||||||||
+Sbjct  137    CTCTGTATCGTTCCAATTTTAGTATAT  111
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 301366393146
+
+
+
+################################################################################
